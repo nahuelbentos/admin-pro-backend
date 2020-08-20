@@ -1,6 +1,6 @@
 /* 
-    user: mean - atlas;
-    pass: wR33sObRq0RVkRf7;
+    user: root;
+    pass: R43r9ZINlCuBpzG4;
  */
 
 const mongoose = require('mongoose');
